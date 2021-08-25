@@ -41,7 +41,7 @@ Table of Content:
 /*font Variables*/
 /*Color Variables*/
 /*=================== fonts ====================*/
-@import url("https://fonts.googleapis.com/css?family=Heebo:300,400,700,900|Roboto:300,400,500,700|Noto+Sans+JP:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,400,700,900|Roboto:300,400,500,700|Noto+Sans+JP:300,400,500,700");
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .list {
@@ -67,7 +67,7 @@ body {
   color: #777777; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Heebo", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-weight: bold; }
 
 button:focus {
@@ -113,7 +113,7 @@ button:focus {
   max-width: 670px;
   margin: 0px auto 20px; }
   .main_title h2 {
-    font-family: "Heebo", sans-serif;
+    font-family: "Noto Sans JP", sans-serif;
     font-size: 36px;
     color: #222222;
     margin-bottom: 15px;
@@ -358,7 +358,7 @@ button:focus {
       .blog_banner .banner_inner .blog_b_text h2 {
         font-size: 60px;
         font-weight: bold;
-        font-family: "Heebo", sans-serif;
+        font-family: "Noto Sans JP", sans-serif;
         line-height: 66px;
         margin-bottom: 15px;
         text-transform: uppercase; }
@@ -398,7 +398,7 @@ button:focus {
     .banner_area .banner_inner .banner_content h2 {
       color: #222222;
       font-size: 48px;
-      font-family: "Heebo", sans-serif;
+      font-family: "Noto Sans JP", sans-serif;
       margin-bottom: 0px;
       font-weight: bold; }
     .banner_area .banner_inner .banner_content .page_link a {
@@ -2483,7 +2483,7 @@ h6 {
 
 .welcome_text h4 {
   color: #222222;
-  font-family: "Heebo", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-size: 36px;
   margin-bottom: 0px;
   margin-top: 20px;
@@ -2506,7 +2506,7 @@ h6 {
     -webkit-text-fill-color: transparent; }
   .wel_item h4 {
     font-size: 24px;
-    font-family: "Heebo", sans-serif;
+    font-family: "Noto Sans JP", sans-serif;
     font-weight: bold;
     color: #222222;
     margin-bottom: 5px;
@@ -2674,7 +2674,7 @@ h6 {
   .feature_item h4 {
     color: #222222;
     font-size: 21px;
-    font-family: "Heebo", sans-serif;
+    font-family: "Noto Sans JP", sans-serif;
     font-weight: bold;
     margin-bottom: 20px;
     text-transform: uppercase; }
@@ -2909,7 +2909,7 @@ h6 {
     color: #fff;
     font-size: 18px;
     font-weight: bold;
-    font-family: "Heebo", sans-serif;
+    font-family: "Noto Sans JP", sans-serif;
     margin-bottom: 0px; }
 
 .ab_widget p {
